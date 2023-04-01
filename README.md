@@ -2,6 +2,7 @@
 A minesweeper game coded in Java.
 
 List of features: 
+
 1.) Minesweeper board
 
 2.) Ability to flag / unmark flagged cells
